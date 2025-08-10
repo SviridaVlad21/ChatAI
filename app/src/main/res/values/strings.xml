@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatAi</string>
+    <string name="chat_screen_send_btn">Send</string>
+    <string name="chat_screen_text_field_placeholder">Type a message...</string>
+</resources>
