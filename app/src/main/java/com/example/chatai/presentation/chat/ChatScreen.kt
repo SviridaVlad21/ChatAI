@@ -84,7 +84,8 @@ private fun ChatInput(
     Row(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(16.dp),
+            .padding(16.dp)
+            .systemBarsPadding(),
         verticalAlignment = Alignment.CenterVertically
     ) {
         OutlinedTextField(
